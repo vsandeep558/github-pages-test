@@ -1,1 +1,1 @@
-Testing site
+New theme selected
